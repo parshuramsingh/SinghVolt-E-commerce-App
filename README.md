@@ -1,10 +1,9 @@
-# ⚡ SinghVoltz
+# ⚡ SinghVoltz  <img src="https://raw.githubusercontent.com/parshuramsingh/SinghVolt-E-commerce-App/refs/heads/main/public/assets/logo.webp?token=GHSAT0AAAAAADBALEHVWGNJ36MEZ6AWI3VYZ745E2A" alt="SinghVoltz Banner" width="100" height="50"/>
 
 > A high-performance, fully responsive e-commerce frontend crafted with React and Vite — showcasing premium tech gadgets through sleek UI, dynamic interactions, and clean architecture.
 
-![SinghVoltz Banner](https://via.placeholder.com/1200x400?text=SinghVoltz+E-commerce+Platform)
 
----
+
 
 ## 🌟 Live Preview
 
