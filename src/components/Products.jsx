@@ -77,6 +77,7 @@ function Products() {
                 width="250"
                 height="200"
                 loading="lazy"
+                style={{ maxWidth: "250px", maxHeight: "200px", objectFit: "contain" }}
               />
               <div className="product-info">
                 <p>{product.name}</p>
