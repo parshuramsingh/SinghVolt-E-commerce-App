@@ -4,11 +4,6 @@
 
 
 
-## 🌟 Live Preview
-
-🚀 [Visit SinghVolt Online](https://singhvolt-ecommerce-app.vercel.app/)  
-
-
 ---
 
 ## 🛍️ Features
