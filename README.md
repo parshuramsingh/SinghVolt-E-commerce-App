@@ -6,7 +6,7 @@
 
 ## 🌟 Live Preview
 
-🚀 [Visit SinghVoltz Online](https://singhvolt-ecommerce-app.vercel.app/)  
+🚀 [Visit SinghVolt Online](https://singhvolt-ecommerce-app.vercel.app/)  
 
 
 ---
