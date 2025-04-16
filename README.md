@@ -1,5 +1,4 @@
-# ⚡ SinghVoltz  <img src="https://raw.githubusercontent.com/parshuramsingh/SinghVolt-E-commerce-App/refs/heads/main/public/assets/logo.webp?token=GHSAT0AAAAAADBALEHVWGNJ36MEZ6AWI3VYZ745E2A" alt="SinghVoltz Banner" width="100" height="50"/>
-
+# ⚡ SinghVolt
 > A high-performance, fully responsive e-commerce frontend crafted with React and Vite — showcasing premium tech gadgets through sleek UI, dynamic interactions, and clean architecture.
 
 
@@ -7,8 +6,8 @@
 
 ## 🌟 Live Preview
 
-🚀 [Visit SinghVoltz Online](https://your-live-site-link.com)  
-🔗 [View Demo Video](https://your-demo-link.com) *(optional)*
+🚀 [Visit SinghVoltz Online](https://singhvolt-ecommerce-app.vercel.app/)  
+
 
 ---
 
@@ -36,14 +35,6 @@
 
 ---
 
-## 🎨 Screenshots
-
-| Home | Store | Cart | Contact |
-|------|-------|------|---------|
-| ![](https://via.placeholder.com/300x200?text=Home) | ![](https://via.placeholder.com/300x200?text=Store) | ![](https://via.placeholder.com/300x200?text=Cart) | ![](https://via.placeholder.com/300x200?text=Support) |
-
----
-
 ## 🚀 Getting Started
 
 Clone and run the project locally:
@@ -53,7 +44,7 @@ Clone and run the project locally:
 git clone https://github.com/your-username/SinghVoltz.git
 
 # Navigate into folder
-cd SinghVoltz
+cd SinghVolt
 
 # Install dependencies
 npm install
