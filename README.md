@@ -41,7 +41,7 @@ Clone and run the project locally:
 
 ```bash
 # Clone repository
-git clone https://github.com/your-username/SinghVoltz.git
+git clone https://github.com/parshuramsingh/SinghVolt-E-commerce-App.git
 
 # Navigate into folder
 cd SinghVolt
