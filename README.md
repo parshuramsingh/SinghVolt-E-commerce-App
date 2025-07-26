@@ -38,7 +38,7 @@ To get SinghVolt up and running on your local machine, follow these simple steps
 
 ```bash
 # Clone the repository
-git clone [https://github.com/parshuramsingh/SinghVolt-E-commerce-App.git](https://github.com/parshuramsingh/SinghVolt-E-commerce-App.git)
+git clone(https://github.com/parshuramsingh/SinghVolt-E-commerce-App.git)
 
 # Navigate into the project folder
 cd SinghVolt
