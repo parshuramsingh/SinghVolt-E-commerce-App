@@ -4,7 +4,7 @@
 
 ##  Live Demo
 
-Experience SinghVolt in action: (https://singh-volt-e-commerce-app.vercel.app/)
+[Deployed App (Vercel)](https://singh-volt-e-commerce-app.vercel.app/)
 
 ---
 
